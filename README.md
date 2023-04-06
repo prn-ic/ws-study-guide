@@ -5,7 +5,7 @@
 </p>
 
 <b>Пособие состоит из:<b>
-- Linux и как установить туда c#
+- <a href="https://github.com/prn-ic/ws-study-guide/wiki/Linux">Linux и как установить туда c#</a>
 - Базы данных
 - База C#
 - Все что нужно знать про Api
