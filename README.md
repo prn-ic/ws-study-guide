@@ -6,6 +6,7 @@
 
 <b>Пособие состоит из:<b>
 - <a href="https://github.com/prn-ic/ws-study-guide/wiki/Linux">Linux и как установить туда c#</a>
+- git
 - Базы данных
 - База C#
 - Все что нужно знать про Api
