@@ -7,7 +7,7 @@
 <b>Пособие состоит из:<b>
 - <a href="https://github.com/prn-ic/ws-study-guide/wiki/Linux">Linux и как установить туда c#</a>
 - <a href="https://github.com/prn-ic/ws-study-guide/wiki/Git">Git</a>
-- Базы данных
+- <a href="https://github.com/prn-ic/ws-study-guide/wiki/%D0%91%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85">Базы данных</a>
 - База C#
 - Все что нужно знать про Api
 - Все что нужно знать про Avalonia UI
